@@ -142,7 +142,7 @@ The contrast with the non-U.S. actions warrants further study but should not be 
 
 Taken together, the findings point to **convergence on the object of regulation without convergence on the method of regulation**. Governments in the sample address access rules, recommendation systems, engagement features, user controls, parental authority, and broader platform duties, but combine those mechanisms differently. The same concerns about social media use can therefore produce an account restriction, a chronological feed option, a parental control requirement, a warning, a feature prohibition, or a continuing systemic-risk duty.
 
-The distinction matters because similar regulatory targets do not create equivalent legal systems. Different models allocate authority and responsibility among users, parents, platforms, regulators, and courts. In the United States, judicial review adds another layer by determining whether enacted state requirements remain operative. The emerging pattern is therefore not convergence toward one model of social media regulation. It is convergence on **platform design and operation as legitimate subjects of legal regulation**, combined with continuing divergence in the mechanisms used to govern them.
+The distinction matters because similar regulatory targets do not create equivalent legal systems. Different models allocate authority and responsibility among users, parents, platforms, regulators, and courts. In the United States, judicial review adds another layer by determining whether enacted state requirements remain operative. The emerging pattern is therefore convergence on **platform design and operation as legitimate subjects of legal regulation**, without a common legal model for governing them.
 
 ### Limitations and directions for further research
 
@@ -160,7 +160,7 @@ Several extensions follow directly from these limitations. Future work could exp
 
 Across the 34 qualifying regulatory actions, the study identifies a common movement toward regulating **platform design and operation**, but not a common legal model. Engagement Design is the most frequently coded area, 29 actions primarily target minors, and youth regulation frequently operates through conditions of use rather than account exclusion alone. U.S. actions more often use Parental Controls, while the qualifying actions outside the United States more often use Broader Safety Duties. The U.S. sample also shows substantially more variation in operative status, with constitutional review and federal preemption affecting which enacted requirements govern in practice.
 
-The broader empirical pattern is therefore one of **shared regulatory targets and divergent legal mechanisms**. Continued action-level and provision-level tracking can show whether these combinations persist as the field develops, whether litigation changes the design of later statutes, how institutional structures shape regulatory approaches, and whether enacted design requirements ultimately alter platform practices or user experience.
+The broader empirical pattern is therefore **convergence on shared regulatory targets without a common legal model**. Continued action-level and provision-level tracking can show whether these combinations persist as the field develops, whether litigation changes the design of later statutes, how institutional structures shape regulatory approaches, and whether enacted design requirements ultimately alter platform practices or user experience.
 
 ## Project Materials
 

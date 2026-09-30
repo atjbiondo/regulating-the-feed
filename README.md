@@ -4,7 +4,7 @@
 
 *Regulating the Feed* examines how enacted laws and regulations are beginning to govern the design and operation of social media platforms directly, including account access, feeds and recommendation systems, and engagement features.
 
-The project uses a systematically coded dataset of **34 regulatory actions** across the United States, European Union, United Kingdom, Australia, Canada, Brazil, China, and Indonesia. It compares the emerging U.S. state landscape with regulatory approaches outside the United States and separately tracks whether enacted requirements were legally operative as of **September 11, 2026**.
+The project uses a systematically coded dataset of **34 regulatory actions** identified across seven of the eight selected regulatory systems. Canada remained part of the comparative design but produced no qualifying action during the study period. The study compares the emerging U.S. state landscape with regulatory approaches outside the United States and separately tracks whether enacted requirements were legally operative as of **September 11, 2026**.
 
 ## Research Question
 
@@ -39,7 +39,7 @@ Target population and operative status are coded independently so that the popul
 - **Broader Safety Duties** appear in six of 27 U.S. actions (22.2%) and six of seven actions outside the United States (85.7%).
 - At the study cutoff, the 27 U.S. actions were classified as **10 In Force, four Partially Operative, five Not Yet Effective, and eight Blocked**. All seven qualifying actions outside the United States were In Force.
 
-The broader pattern is one of **shared regulatory targets and divergent legal mechanisms**: governments increasingly regulate platform design and operation, but they do not rely on a single legal model.
+The broader pattern is **convergence on shared regulatory targets without a common legal model**. Governments increasingly regulate platform design and operation through different combinations of legal approaches.
 
 ## Interactive Analysis
 
