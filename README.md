@@ -62,6 +62,7 @@ The dashboard provides:
 | **[Methodology](docs/methodology.md)** | Study scope, sample construction, screening, coding, status methodology, and analysis |
 | **[Data Dictionary](docs/data-dictionary.md)** | Definitions and coding rules for dataset variables |
 | **[Tableau Dashboard](https://public.tableau.com/views/RegulatingtheFeed/Overview)** | Interactive comparative and U.S. state analysis |
+| **[Tableau Archive](tableau/)** | Packaged Tableau workbook and supporting geographic source files |
 
 ## Repository Structure
 
@@ -71,10 +72,18 @@ regulating-the-feed/
 ├── data/
 │   ├── README.md
 │   └── regulating_the_feed_measures_v1.csv
-└── docs/
-    ├── data-dictionary.md
-    ├── methodology.md
-    └── project-brief.md
+├── docs/
+│   ├── data-dictionary.md
+│   ├── methodology.md
+│   └── project-brief.md
+└── tableau/
+    ├── README.md
+    ├── Regulating_the_Feed_v1.twbx
+    └── sources/
+        ├── README.md
+        ├── regulating_the_feed_geography_v1.csv
+        ├── us_state_scaffold.csv
+        └── us_states_albers_composite.geojson
 ```
 
 ## Scope and Interpretation
