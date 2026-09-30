@@ -2,7 +2,7 @@
 
 ## Scope
 
-*Regulating the Feed* examines enacted legal responses to the design and operation of social media platforms between January 1, 2018 and September 11, 2026. The study focuses on three areas of regulation: account and service access, feeds and recommendation systems, and engagement design.
+*Regulating the Feed* examines enacted legal responses to the design and operation of social media platforms between January 1, 2018 and September 11, 2026. The study focuses on three areas of regulation: Account and Service Access, Feeds and Recommendation Systems, and Engagement Design.
 
 The central research question is:
 
@@ -14,13 +14,19 @@ The project uses a purposive sample of eight regulatory systems: the European Un
 
 Within each selected system, the research process screened enacted statutes, regulations, and binding subordinate legislation for provisions that directly addressed at least one of the three regulatory areas tracked in the study. Screening was not limited to instruments formally described as “social media laws”; eligibility depended on the substance of the legal requirements.
 
-This process produced 34 qualifying regulatory actions. Twenty-seven are U.S. state-level actions and seven are non-U.S. actions. Canada remained part of the comparative sample even though no enacted action met the project’s inclusion criteria during the study period.
+This process produced 34 qualifying regulatory actions. Twenty-seven are U.S. state-level actions and seven are non-U.S. actions. Canada remained part of the comparative sample even though no enacted action met the project's inclusion criteria during the study period.
+
+## Identification and Screening
+
+Candidate regulatory actions were identified through iterative, jurisdiction-specific searches for enacted laws, regulations, and binding subordinate legislation addressing social media access, recommendation systems, engagement design, youth online safety, and related platform requirements. Candidate instruments were then reviewed against the project's inclusion criteria and verified using primary legal or official sources wherever available.
+
+Screening proceeded at the level of the legal instrument and its substantive provisions rather than by relying on an instrument's title or policy label. Potential actions were excluded when they were proposed rather than enacted, nonbinding, outside the project's defined regulatory areas, or did not create a qualifying legal obligation. The resulting dataset represents the qualifying actions identified within the eight selected regulatory systems during the study period under this screening process.
 
 ## Inclusion and Exclusion
 
 A legal instrument was included when it had been enacted or formally adopted and imposed a binding requirement addressing at least one tracked area of regulation.
 
-The study excludes proposed legislation, nonbinding guidance, voluntary codes, policy proposals, and other materials that do not create binding legal obligations. Instruments concerning online safety, children, privacy, or digital services were not included solely because they addressed those subjects; they had to satisfy the project’s defined regulatory criteria.
+The study excludes proposed legislation, nonbinding guidance, voluntary codes, policy proposals, and other materials that do not create binding legal obligations. Instruments concerning online safety, children, privacy, or digital services were not included solely because they addressed those subjects; they had to satisfy the project's defined regulatory criteria.
 
 ## Unit of Analysis
 
@@ -40,7 +46,7 @@ The three broad **areas of regulation** are:
 
 **Engagement Design** — rules governing platform features or design practices intended to shape or prolong user engagement.
 
-Within those areas, the dataset tracks specific legal requirements using binary variables. A value of `1` indicates that the enacted legal text contains a qualifying requirement under the project’s coding rules; a value of `0` indicates that it does not.
+Within those areas, the dataset tracks specific legal requirements using binary variables. A value of `1` indicates that the enacted legal text contains a qualifying requirement under the project's coding rules; a value of `0` indicates that it does not.
 
 The dataset also maps regulatory actions to broader **regulatory approaches**: Direct Limits, User Choice and Control, Parental Controls, Warnings and Interruptions, and Broader Safety Duties. These variables describe the form of intervention rather than the subject matter being regulated.
 
@@ -63,6 +69,14 @@ Substantive coding generally reflects the enacted regulatory architecture even w
 Primary legal sources were used wherever available, including enacted statutory text, regulations, official legislative materials, and official legal publications. Separate status sources were used where necessary to verify litigation, injunctions, effective dates, or other developments affecting operation of a regulatory action.
 
 The dataset records primary-source URLs, status-source URLs where applicable, supporting sources, coding notes, status notes, and the date on which each action was last verified.
+
+## Analysis
+
+The analysis is descriptive and comparative. It reports action counts and percentages for the full dataset and, where relevant, separately for the U.S. and non-U.S. groups. Percentages use the number of regulatory actions in the stated group as their denominator.
+
+The three areas of regulation and five regulatory approaches are nonexclusive. A regulatory action may therefore contribute to more than one count within each classification system.
+
+No inferential statistical test was performed, and the analysis does not estimate the prevalence of regulatory approaches across jurisdictions outside the purposive sample.
 
 ## Limitations
 
