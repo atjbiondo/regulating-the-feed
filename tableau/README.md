@@ -1,5 +1,10 @@
-# Tableau Sources
+# Tableau Workbook
 
-Supporting geographic and reference files used for the Tableau dashboard.
+This directory contains the Tableau workbook and supporting files used for the *Regulating the Feed* dashboard.
 
-The primary research dataset is maintained in the repository's `data/` directory. These files support the workbook's geographic visualization and dashboard functionality.
+- `Regulating_the_Feed_v1.twbx` contains the packaged Tableau workbook.
+- `sources/` contains supporting files used for the dashboard's geographic visualizations.
+
+The primary research dataset is maintained in the repository's `data/` directory.
+
+Published dashboard: https://public.tableau.com/views/RegulatingtheFeed/Overview
