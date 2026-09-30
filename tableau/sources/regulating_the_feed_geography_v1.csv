@@ -1,0 +1,62 @@
+regulatory_system,intervention_id,intervention_name,map_country_name,iso_alpha3,us_state,us_state_code,eu_member_iso3,sample_status,counting_note
+European Union,INT-EU-DSA,Digital Services Act,Austria,AUT,,,AUT,Sampled — qualifying enacted intervention,Use COUNTD(intervention_id); the EU intervention repeats across 27 member-state bridge rows.
+European Union,INT-EU-DSA,Digital Services Act,Belgium,BEL,,,BEL,Sampled — qualifying enacted intervention,Use COUNTD(intervention_id); the EU intervention repeats across 27 member-state bridge rows.
+European Union,INT-EU-DSA,Digital Services Act,Bulgaria,BGR,,,BGR,Sampled — qualifying enacted intervention,Use COUNTD(intervention_id); the EU intervention repeats across 27 member-state bridge rows.
+European Union,INT-EU-DSA,Digital Services Act,Croatia,HRV,,,HRV,Sampled — qualifying enacted intervention,Use COUNTD(intervention_id); the EU intervention repeats across 27 member-state bridge rows.
+European Union,INT-EU-DSA,Digital Services Act,Cyprus,CYP,,,CYP,Sampled — qualifying enacted intervention,Use COUNTD(intervention_id); the EU intervention repeats across 27 member-state bridge rows.
+European Union,INT-EU-DSA,Digital Services Act,Czechia,CZE,,,CZE,Sampled — qualifying enacted intervention,Use COUNTD(intervention_id); the EU intervention repeats across 27 member-state bridge rows.
+European Union,INT-EU-DSA,Digital Services Act,Denmark,DNK,,,DNK,Sampled — qualifying enacted intervention,Use COUNTD(intervention_id); the EU intervention repeats across 27 member-state bridge rows.
+European Union,INT-EU-DSA,Digital Services Act,Estonia,EST,,,EST,Sampled — qualifying enacted intervention,Use COUNTD(intervention_id); the EU intervention repeats across 27 member-state bridge rows.
+European Union,INT-EU-DSA,Digital Services Act,Finland,FIN,,,FIN,Sampled — qualifying enacted intervention,Use COUNTD(intervention_id); the EU intervention repeats across 27 member-state bridge rows.
+European Union,INT-EU-DSA,Digital Services Act,France,FRA,,,FRA,Sampled — qualifying enacted intervention,Use COUNTD(intervention_id); the EU intervention repeats across 27 member-state bridge rows.
+European Union,INT-EU-DSA,Digital Services Act,Germany,DEU,,,DEU,Sampled — qualifying enacted intervention,Use COUNTD(intervention_id); the EU intervention repeats across 27 member-state bridge rows.
+European Union,INT-EU-DSA,Digital Services Act,Greece,GRC,,,GRC,Sampled — qualifying enacted intervention,Use COUNTD(intervention_id); the EU intervention repeats across 27 member-state bridge rows.
+European Union,INT-EU-DSA,Digital Services Act,Hungary,HUN,,,HUN,Sampled — qualifying enacted intervention,Use COUNTD(intervention_id); the EU intervention repeats across 27 member-state bridge rows.
+European Union,INT-EU-DSA,Digital Services Act,Ireland,IRL,,,IRL,Sampled — qualifying enacted intervention,Use COUNTD(intervention_id); the EU intervention repeats across 27 member-state bridge rows.
+European Union,INT-EU-DSA,Digital Services Act,Italy,ITA,,,ITA,Sampled — qualifying enacted intervention,Use COUNTD(intervention_id); the EU intervention repeats across 27 member-state bridge rows.
+European Union,INT-EU-DSA,Digital Services Act,Latvia,LVA,,,LVA,Sampled — qualifying enacted intervention,Use COUNTD(intervention_id); the EU intervention repeats across 27 member-state bridge rows.
+European Union,INT-EU-DSA,Digital Services Act,Lithuania,LTU,,,LTU,Sampled — qualifying enacted intervention,Use COUNTD(intervention_id); the EU intervention repeats across 27 member-state bridge rows.
+European Union,INT-EU-DSA,Digital Services Act,Luxembourg,LUX,,,LUX,Sampled — qualifying enacted intervention,Use COUNTD(intervention_id); the EU intervention repeats across 27 member-state bridge rows.
+European Union,INT-EU-DSA,Digital Services Act,Malta,MLT,,,MLT,Sampled — qualifying enacted intervention,Use COUNTD(intervention_id); the EU intervention repeats across 27 member-state bridge rows.
+European Union,INT-EU-DSA,Digital Services Act,Netherlands,NLD,,,NLD,Sampled — qualifying enacted intervention,Use COUNTD(intervention_id); the EU intervention repeats across 27 member-state bridge rows.
+European Union,INT-EU-DSA,Digital Services Act,Poland,POL,,,POL,Sampled — qualifying enacted intervention,Use COUNTD(intervention_id); the EU intervention repeats across 27 member-state bridge rows.
+European Union,INT-EU-DSA,Digital Services Act,Portugal,PRT,,,PRT,Sampled — qualifying enacted intervention,Use COUNTD(intervention_id); the EU intervention repeats across 27 member-state bridge rows.
+European Union,INT-EU-DSA,Digital Services Act,Romania,ROU,,,ROU,Sampled — qualifying enacted intervention,Use COUNTD(intervention_id); the EU intervention repeats across 27 member-state bridge rows.
+European Union,INT-EU-DSA,Digital Services Act,Slovakia,SVK,,,SVK,Sampled — qualifying enacted intervention,Use COUNTD(intervention_id); the EU intervention repeats across 27 member-state bridge rows.
+European Union,INT-EU-DSA,Digital Services Act,Slovenia,SVN,,,SVN,Sampled — qualifying enacted intervention,Use COUNTD(intervention_id); the EU intervention repeats across 27 member-state bridge rows.
+European Union,INT-EU-DSA,Digital Services Act,Spain,ESP,,,ESP,Sampled — qualifying enacted intervention,Use COUNTD(intervention_id); the EU intervention repeats across 27 member-state bridge rows.
+European Union,INT-EU-DSA,Digital Services Act,Sweden,SWE,,,SWE,Sampled — qualifying enacted intervention,Use COUNTD(intervention_id); the EU intervention repeats across 27 member-state bridge rows.
+United Kingdom,INT-UK-OSA,Online Safety Act 2023,United Kingdom,GBR,,,,Sampled — qualifying enacted intervention,Use COUNTD(intervention_id) for intervention counts.
+Australia,INT-AUS-SMMA,Online Safety Amendment (Social Media Minimum Age) Act 2024,Australia,AUS,,,,Sampled — qualifying enacted intervention,Use COUNTD(intervention_id) for intervention counts.
+United States,INT-US-CA-SB976,Protecting Our Kids from Social Media Addiction Act,United States,USA,California,CA,,Sampled — qualifying enacted intervention,Use COUNTD(intervention_id) for intervention counts.
+United States,INT-US-AR-ACT689,Social Media Safety Act,United States,USA,Arkansas,AR,,Sampled — qualifying enacted intervention,Use COUNTD(intervention_id) for intervention counts.
+United States,INT-US-UT-SB194,Utah Minor Protection in Social Media Act,United States,USA,Utah,UT,,Sampled — qualifying enacted intervention,Use COUNTD(intervention_id) for intervention counts.
+United States,INT-US-TX-HB18,Securing Children Online Through Parental Empowerment (SCOPE) Act,United States,USA,Texas,TX,,Sampled — qualifying enacted intervention,Use COUNTD(intervention_id) for intervention counts.
+United States,INT-US-FL-HB3,Online Protections for Minors,United States,USA,Florida,FL,,Sampled — qualifying enacted intervention,Use COUNTD(intervention_id) for intervention counts.
+United States,INT-US-MS-HB1126,Walker Montgomery Protecting Children Online Act,United States,USA,Mississippi,MS,,Sampled — qualifying enacted intervention,Use COUNTD(intervention_id) for intervention counts.
+United States,INT-US-OH-HB33,Parental Notification by Social Media Operators Act,United States,USA,Ohio,OH,,Sampled — qualifying enacted intervention,Use COUNTD(intervention_id) for intervention counts.
+United States,INT-US-TN-HB1891,Protecting Children from Social Media Act,United States,USA,Tennessee,TN,,Sampled — qualifying enacted intervention,Use COUNTD(intervention_id) for intervention counts.
+United States,INT-US-GA-SB351,Protecting Georgia's Children on Social Media Act of 2024,United States,USA,Georgia,GA,,Sampled — qualifying enacted intervention,Use COUNTD(intervention_id) for intervention counts.
+United States,INT-US-NY-SAFE,Stop Addictive Feeds Exploitation (SAFE) for Kids Act,United States,USA,New York,NY,,Sampled — qualifying enacted intervention,Use COUNTD(intervention_id) for intervention counts.
+United States,INT-US-VA-SB854,Social-media platform responsibilities and limits for minors,United States,USA,Virginia,VA,,Sampled — qualifying enacted intervention,Use COUNTD(intervention_id) for intervention counts.
+United States,INT-US-LA-ACT456,Secure Online Child Interaction and Age Limitation Act,United States,USA,Louisiana,LA,,Sampled — qualifying enacted intervention,Use COUNTD(intervention_id) for intervention counts.
+United States,INT-US-CO-HB1136,Protections for Youth Who Use Social Media,United States,USA,Colorado,CO,,Sampled — qualifying enacted intervention,Use COUNTD(intervention_id) for intervention counts.
+United States,INT-US-MD-HB603,Maryland Kids Code,United States,USA,Maryland,MD,,Sampled — qualifying enacted intervention,Use COUNTD(intervention_id) for intervention counts.
+United States,INT-US-NE-LB504,Age-Appropriate Online Design Code Act,United States,USA,Nebraska,NE,,Sampled — qualifying enacted intervention,Use COUNTD(intervention_id) for intervention counts.
+United States,INT-US-NE-LB383,Parental Rights in Social Media Act,United States,USA,Nebraska,NE,,Sampled — qualifying enacted intervention,Use COUNTD(intervention_id) for intervention counts.
+United States,INT-US-AR-ACT900,Social Media Safety Act amendments,United States,USA,Arkansas,AR,,Sampled — qualifying enacted intervention,Use COUNTD(intervention_id) for intervention counts.
+United States,INT-US-AR-ACT901,Social Media Platform Harm Liability Act,United States,USA,Arkansas,AR,,Sampled — qualifying enacted intervention,Use COUNTD(intervention_id) for intervention counts.
+United States,INT-US-CA-AB56,Social Media Warning Law,United States,USA,California,CA,,Sampled — qualifying enacted intervention,Use COUNTD(intervention_id) for intervention counts.
+United States,INT-US-CA-AB1709,Covered Platform Age Restriction,United States,USA,California,CA,,Sampled — qualifying enacted intervention,Use COUNTD(intervention_id) for intervention counts.
+United States,INT-US-MN-325M335,Social Media Mental Health Warning Label Law,United States,USA,Minnesota,MN,,Sampled — qualifying enacted intervention,Use COUNTD(intervention_id) for intervention counts.
+United States,INT-US-NY-WARNING,Addictive Social Media Platform Warning Label Law,United States,USA,New York,NY,,Sampled — qualifying enacted intervention,Use COUNTD(intervention_id) for intervention counts.
+United States,INT-US-ID-HB542,Stop Harms from Addictive Social Media Act,United States,USA,Idaho,ID,,Sampled — qualifying enacted intervention,Use COUNTD(intervention_id) for intervention counts.
+United States,INT-US-SC-H3431,Age-Appropriate Code Design Act,United States,USA,South Carolina,SC,,Sampled — qualifying enacted intervention,Use COUNTD(intervention_id) for intervention counts.
+United States,INT-US-VT-S69,Vermont Age-Appropriate Design Code Act,United States,USA,Vermont,VT,,Sampled — qualifying enacted intervention,Use COUNTD(intervention_id) for intervention counts.
+United States,INT-US-UT-HB464,Social Media Amendments — excessive-use liability,United States,USA,Utah,UT,,Sampled — qualifying enacted intervention,Use COUNTD(intervention_id) for intervention counts.
+United States,INT-US-LA-HB123,Legal representative consent for minor online accounts,United States,USA,Louisiana,LA,,Sampled — qualifying enacted intervention,Use COUNTD(intervention_id) for intervention counts.
+Brazil,INT-BRA-ECA-DIGITAL,Digital Statute of the Child and Adolescent (ECA Digital),Brazil,BRA,,,,Sampled — qualifying enacted intervention,Use COUNTD(intervention_id) for intervention counts.
+China,INT-CHN-ALGORITHM-REC,Provisions on the Administration of Algorithmic Recommendation in Internet Information Services,China,CHN,,,,Sampled — qualifying enacted intervention,Use COUNTD(intervention_id) for intervention counts.
+China,INT-CHN-MINORS-NET,Regulations on the Protection of Minors in Cyberspace,China,CHN,,,,Sampled — qualifying enacted intervention,Use COUNTD(intervention_id) for intervention counts.
+Indonesia,INT-IDN-PP17-ACCESS,Electronic System Governance for Child Protection (PP TUNAS),Indonesia,IDN,,,,Sampled — qualifying enacted intervention,Use COUNTD(intervention_id) for intervention counts.
+Canada,,No qualifying enacted intervention identified by cutoff,Canada,CAN,,,,Sampled — no qualifying enacted intervention,Zero is a substantive result; retain Canada in the map and use COUNTD(intervention_id) for intervention counts.
