@@ -78,7 +78,7 @@ The five regulatory approaches also overlap within individual actions.
 
 **Parental Controls** appear in **18 U.S. actions (66.7%)** and **three actions outside the United States (42.9%)**.
 
-**Warnings and Interruptions** appear in **five U.S. actions (18.5%)** and none of the seven qualifying actions outside the United States.
+**Warnings and Interruptions** appear in **four U.S. actions (14.8%)** and none of the seven qualifying actions outside the United States.
 
 **Broader Safety Duties** appear in **six U.S. actions (22.2%)** and **six of seven actions outside the United States (85.7%)**.
 
