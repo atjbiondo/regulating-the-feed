@@ -164,7 +164,7 @@ The broader empirical pattern is therefore one of **shared regulatory targets an
 
 ## Project Materials
 
-- **Interactive Analysis:** Tableau Public dashboard presenting the comparative analysis and U.S. state detail.
+- **Interactive Analysis:** [Tableau Public dashboard](https://public.tableau.com/views/RegulatingtheFeed/Overview) presenting the comparative analysis and U.S. state detail.
 - **Dataset:** [`../data/regulating_the_feed_measures_v1.csv`](../data/regulating_the_feed_measures_v1.csv)
 - **Methodology:** [`methodology.md`](methodology.md)
 - **Data Dictionary:** [`data-dictionary.md`](data-dictionary.md)
